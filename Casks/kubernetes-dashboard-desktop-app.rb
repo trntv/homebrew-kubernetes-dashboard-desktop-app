@@ -1,6 +1,6 @@
 cask "kubernetes-dashboard-desktop-app" do
-  version "2.0.4"
-  sha256 "e1e95d2641bb12f332a8a79f99b00ff3918276b246aa931f4232143d8b3762f3"
+  version "2.2.0"
+  sha256 "25174c0267008a506edad6805454d687d9ac5268fe738a08fdd9e5c4dfdbbe03"
   url "https://github.com/trntv/kubernetes-dashboard-desktop-app/releases/download/v#{version}/Kubernetes.Dashboard.dmg"
   name "Kubernetes Dashboard"
   desc "Kubernetes Dashboard desktop App (Unofficial)"
